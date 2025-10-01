@@ -268,28 +268,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Equipe
 
-- **Desenvolvedor Principal**: [Seu Nome]
-- **Design**: Equipe Santo Grau
-- **Consultoria IA**: [Nome do Consultor]
-
-## 📞 Contato
-
-- **Website**: [https://santograu.com.br](https://santograu.com.br)
-- **Email**: contato@santograu.com.br
-- **LinkedIn**: [Santo Grau](https://linkedin.com/company/santograu)
-
-## 🙏 Agradecimentos
-
-- Google AI pela API Gemini
-- Comunidade Flask pelo framework
-- Contribuidores open source
-- Equipe Santo Grau pelo design e conceito
-
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela no GitHub!**
-
-![Santo Grau](https://img.shields.io/badge/Santo%20Grau-Experimente%20%C3%93culos%20Virtualmente-purple?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.3.3-green?style=for-the-badge&logo=flask)
-![AI](https://img.shields.io/badge/AI-Gemini%20Ready-orange?style=for-the-badge&logo=google)
+- **Desenvolvedor Principal**: Luiz Magaton
+- **Design**: Luiz Magaton
