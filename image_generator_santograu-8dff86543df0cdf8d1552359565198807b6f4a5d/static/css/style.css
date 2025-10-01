@@ -1,7 +1,10 @@
 :root {
-    --primary-color: #4b2c7d; /* Roxo Santo Grau */
-    --secondary-color: #6a3da3; /* Roxo mais claro */
-    --accent-color: #f7c600; /* Amarelo dourado */
+    --primary-color: #4b2c7d;
+    /* Roxo Santo Grau */
+    --secondary-color: #6a3da3;
+    /* Roxo mais claro */
+    --accent-color: #f7c600;
+    /* Amarelo dourado */
     --text-color: #000000;
     --light-text: #ffffff;
     --background-color: #f9f9f9;
@@ -53,6 +56,18 @@ header {
     letter-spacing: 2px;
     margin-bottom: 10px;
     color: var(--primary-color);
+}
+
+.logo-svg {
+    height: 70px;
+    width: auto;
+    max-width: 300px;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.logo-svg:hover {
+    transform: scale(1.05);
 }
 
 .logo p {
